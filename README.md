@@ -5,3 +5,7 @@ Candidate Number: AE05750
 
 ## Overview
 See the two docs included in the repository. The payoff document outlines all rules for determining payoff values in the game. The solution guide goes through each solution step by step. 
+
+## Powerpoint/Slideshow
+In case email doesn't work:
+https://docs.google.com/presentation/d/1rUMaQysLZcLQaMUECeXYD5avIULRzCC45AkC3Y-uGMQ/edit?usp=sharing
